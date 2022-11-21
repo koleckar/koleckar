@@ -11,7 +11,7 @@ Solid foundations in:
  
 - 🌱 Currently learning reactive programming in Java.
 
--  🔭 For fun I'm currently working on **Shoot-Shield-Reload**, new game - new hit.
+-  🔭 For fun I'm currently working on **Shoot-Shield-Reload**, new round based game (total hit).
 
 -  💬 Ask me about **anything**.
 
