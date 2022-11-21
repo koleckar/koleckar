@@ -1,11 +1,19 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">Java / Python developer from Prague.</h3>
 
-- 🔭 I’m currently working on **Shoot-Shield-Reload, new game - new hit!**
+Finishing master studies in machine learning at CTU. 
 
-- 🌱 I’m currently learning **Java Reactor**
+Solid foundations in:  
+- SOA machine/deep learning algorithms
+- combinatorial optimization algorithms
+- genetic programming 
+ ____________________________________________________________________________
+ 
+- 🌱 Currently learning reactive programming in Java.
 
-- 💬 Ask me about **anything**
+-  🔭 For fun I'm currently working on **Shoot-Shield-Reload**, new game - new hit.
+
+-  💬 Ask me about **anything**.
 
 - 📫 Reach me on **koleckar@protonmail.com**
 
