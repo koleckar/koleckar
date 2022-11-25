@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">Java / Python developer from Prague.</h3>
 
-Finishing master studies in machine learning at CTU. 
+Finishing master studies in machine learning at CTU. Proficient in modern Java.
 
 Solid foundations in:  
 - SOA machine/deep learning algorithms
