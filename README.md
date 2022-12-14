@@ -49,5 +49,3 @@ Solid foundations in:
 </a>
 
 #
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=koleckar&show_icons=true&locale=en&layout=compact" alt="koleckar" /></p>
