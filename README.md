@@ -9,11 +9,9 @@ Solid foundations in:
 - genetic programming 
  ____________________________________________________________________________
  
-- 🌱 Currently learning reactive programming in Java.
+- 🌱 Currently learning reactive web programming in Java.
 
 -  🔭 For fun I'm currently working on **Shoot-Shield-Reload**, new round based game (total hit).
-
--  💬 Ask me about **anything**.
 
 - 📫 Reach me on **koleckar@protonmail.com**
 
