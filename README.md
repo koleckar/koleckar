@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">Java / Python developer from Prague.</h3>
+<h3 align="center"> Hello there 👋 </h3>
+<h4 align="center">Java / Python developer from Prague.</h4>
 
 I have solid theoretical background (finishing master studies in machine learning at CTU). Proficient in modern Java. 
 
