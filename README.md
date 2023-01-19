@@ -9,7 +9,6 @@ Solid practical and theoretical background in:
  
 - 🌱 Currently learning reactive web programming in Java and finishing master studies in machine learning at CTU.
 
--  🔭 For fun programming **Shoot-Shield-Reload**, new round based game (total hit).
 
 - 📫 Reach me on **koleckar@protonmail.com**
 
