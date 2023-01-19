@@ -1,15 +1,15 @@
 <h3 align="center"> Hello there 👋 </h3>
 <h4 align="center">Java / Python developer from Prague.</h4>
 
-I have solid theoretical background (finishing master studies in machine learning at CTU). Proficient in modern Java. 
+Proficient in modern Java. 
 
-Solid foundations in:  
+Solid practical and theoretical background in:  
 - SOA machine/deep learning algorithms
 - combinatorial optimization algorithms
 - genetic programming 
  ____________________________________________________________________________
  
-- 🌱 Currently learning reactive web programming in Java.
+- 🌱 Currently learning reactive web programming in Java and finishing master studies in machine learning at CTU.
 
 -  🔭 For fun I'm currently working on **Shoot-Shield-Reload**, new round based game (total hit).
 
