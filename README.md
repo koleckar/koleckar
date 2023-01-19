@@ -24,12 +24,6 @@ Solid practical and theoretical background in:
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30"/>
 </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> 
-</a> 
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
- <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30" height="30"/> 
-</a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/>
 </a> 
