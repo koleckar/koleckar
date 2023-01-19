@@ -1,10 +1,8 @@
 <h3 align="center"> Hello there 👋 </h3>
 <h4 align="center">Java / Python developer from Prague.</h4>
 
-Proficient in modern Java. 
-
 Solid practical and theoretical background in:  
-- SOA machine/deep learning algorithms
+- SOA machine/deep learning models
 - combinatorial optimization algorithms
 - genetic programming 
  ____________________________________________________________________________
